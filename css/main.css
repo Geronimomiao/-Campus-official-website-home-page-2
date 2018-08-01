@@ -1,0 +1,143 @@
+body {
+     overflow: hidden !important;
+    /* margin-left: 0px; */
+}
+.section {
+    text-align: center;
+    font: 50px "Microsoft Yahei";
+}
+
+.section1 p {
+    position: relative;
+    color: white;
+    /*right: -120%;*/
+}
+.section2 p {
+    color: white;
+    position: relative;
+    /*display: none;*/
+}
+.section2 h3 {
+    color: white;
+    margin-bottom: 97px;
+    margin-top: 15px;
+    font-size: 56px;
+    position: relative;
+    /*display: none;*/
+}
+.history{
+    /*display: block;*/
+    width: 71%;
+    /*display: none;*/
+}
+.section3 p {
+    position: relative;
+    bottom: -120%;
+}
+.section4 p {
+    display: none;
+}
+
+
+#institute > .container > .row > p {
+    color: white;
+    margin-bottom: 35px;
+    margin-top: 15px;
+    font-size: 56px;
+}
+
+#institute .row img {
+    width: 100%;
+}
+
+#institute .row .panel-body {
+    font-weight: 600;
+    font-size: 20px;
+    font-family: cursive;
+    color:  black;
+}
+
+#institute .row .col-md-3 {
+    margin-bottom: 10px;
+}
+
+#clubs h2 {
+    font-size: 50px;
+    color: white;
+    margin-bottom: 26px;
+    margin-top: 34px;
+}
+#clubs .row img {
+    width: 100%;
+}
+#clubs h5 {
+    font-weight: 600;
+}
+#scenery h2 {
+    font-size: 50px;
+    color: #ffffff;
+    margin-bottom: 18px;
+}
+
+#scenery .row img{
+    width: 87%;
+    display: inline-block;
+    /* height: 92%; */
+    /* margin: 0px; */
+    /* margin-bottom: 0px; */
+}
+#scenery .row .col-md-3 {
+    padding-bottom: 20px;
+}
+
+#contact h2 {
+    padding-top: 25px;
+    color: white;
+    font-size: 50px;
+    padding-bottom: 77px;
+}
+
+#contact .row .col-md-4 h4 {
+    color: #888;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+#contact .row .col-md-4 p {
+    color: white;
+    font-size: 22px;
+    padding-bottom: 20px;
+}
+#contact .row .col-md-8 input {
+    background-color: transparent;
+    border-radius: 4px;
+    height: 49px;
+    line-height: 51px;
+    font-size: 19px;
+    outline: none;
+}
+
+#contact .row .col-md-8 textarea {
+    background-color: transparent;
+    border-radius: 4px;
+    height: 174px;
+    font-size: 20px;
+    resize: none;
+    outline: none;
+}
+#contact .row .col-md-8 button {
+    /* top: 10px; */
+    margin-top: 10px;
+    border: none;
+    color: white;
+    background-color: #ED5441;
+    display: block;
+    width: 164px;
+    height: 44px;
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 6px;
+}
+#contact .row .col-md-8 button:hover {
+    color: black;
+    background-color: #fff;
+}
